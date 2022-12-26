@@ -65,3 +65,19 @@ function productOfSix(one, two, three, four, five, six) {
     // Write code here
     console.log(one*two*three*four*five*six)
 }
+
+//---------------------------------------------------------------
+function sumOfFive(one, two, three, four, five) {
+    // Write code here
+    console.log(one+two+three+four+five)
+}
+//----------------------------------------------------------------
+function cubeOfNumber(N) {
+    // Write code here
+    console.log(N ** 3)
+}
+//----------------------------------------------------------------
+function squareAndSum(one, two, three) {
+  // Write code here
+  console.log((one ** 2) + (two ** 2) + (three ** 2))
+}
